@@ -1,0 +1,14 @@
+﻿  MainGame.cpp
+c:\users\andywang\documents\visual studio 2015\projects\gameoflife\gameoflife\board.h(4): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\andywang\documents\visual studio 2015\projects\gameoflife\gameoflife\maingame.cpp(79): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\andywang\documents\visual studio 2015\projects\gameoflife\gameoflife\maingame.cpp(200): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\andywang\documents\visual studio 2015\projects\gameoflife\gameoflife\maingame.cpp(201): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\andywang\documents\visual studio 2015\projects\gameoflife\gameoflife\maingame.cpp(208): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\andywang\documents\visual studio 2015\projects\gameoflife\gameoflife\maingame.cpp(209): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\andywang\documents\visual studio 2015\projects\gameoflife\gameoflife\maingame.cpp(233): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\andywang\documents\visual studio 2015\projects\gameoflife\gameoflife\maingame.cpp(234): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\andywang\documents\visual studio 2015\projects\gameoflife\gameoflife\maingame.cpp(244): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\andywang\documents\visual studio 2015\projects\gameoflife\gameoflife\maingame.cpp(245): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\andywang\documents\visual studio 2015\projects\gameoflife\gameoflife\maingame.cpp(272): warning C4101: 'event': unreferenced local variable
+  GameOfLife.vcxproj -> C:\Users\AndyWang\documents\visual studio 2015\Projects\GameOfLife\Debug\GameOfLife.exe
+  GameOfLife.vcxproj -> C:\Users\AndyWang\documents\visual studio 2015\Projects\GameOfLife\Debug\GameOfLife.pdb (Partial PDB)
